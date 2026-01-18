@@ -1,2 +1,3 @@
 # App-for-Repeat-Assistance
 Intended to help clients become sustainable
+If this works properly, clients requesting assistance more than once in a 12 month period would be asked to use this app to create a budget that would put them on a path toward becoming financial sustainability. If the budget excercise shows non sustainability, they should be referred to agencies or organizations with additional resources.  Note:  As a conference, we could still provide a second assistance.  However, the SVdP philosphy is to encourage folks to become financially sustainable not dependent on Society resources.  
